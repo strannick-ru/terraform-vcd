@@ -1,0 +1,13 @@
+vcd_org_url                  = "https://iaas.vmware.cloud.director/api"
+vcd_org_user                 = "user"
+vcd_org_password             = "password"
+vcd_org_org                  = ""
+vcd_org_vdc                  = ""
+vcd_org_allow_unverified_ssl = true
+vcd_org_max_retry_timeout    = 1800
+vcd_org_edge_name            = ""
+vcd_org_edge_network_name    = ""
+vcd_org_catalog              = ""
+template_vm                  = "Ubuntu 20.04 Server (20201201)"
+org_net                      = "172.18.0.0/24"
+org_ext_ip                   = "11.22.33.44"
